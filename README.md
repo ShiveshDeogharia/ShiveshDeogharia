@@ -184,7 +184,12 @@ Platforms:
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ShiveshDeogharia&theme=tokyonight&hide_border=true"/>
 </p>
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShiveshDeogharia&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ShiveshDeogharia/ShiveshDeogharia/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 ---
 
 ## 🌐 Connect With Me
