@@ -176,17 +176,13 @@ Platforms:
 ## 📈 GitHub Analytics
 
 <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShiveshDeogharia&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShiveshDeogharia&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShiveshDeogharia&layout=compact&theme=tokyonight"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShiveshDeogharia&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShiveshDeogharia&theme=tokyonight"/>
-
+  <img src="https://streak-stats.demolab.com?user=ShiveshDeogharia&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
